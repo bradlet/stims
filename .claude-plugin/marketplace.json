@@ -6,9 +6,9 @@
   },
   "plugins": [
     {
-      "name": "review-plugin",
-      "source": "./plugins/review-plugin",
-      "description": "Adds a /review command for quick code reviews",
+      "name": "feature-dev-team",
+      "source": "./plugins/feature-dev-team",
+      "description": "Adds a group of agents with skills to orchestrate their efforts on new feature development tasks.",
       "version": "0.0.1",
       "author": {
         "name": "Bradley Thompson (bradlet)"

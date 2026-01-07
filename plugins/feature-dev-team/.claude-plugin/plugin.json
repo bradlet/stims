@@ -1,0 +1,5 @@
+{
+  "name": "feature-dev-team",
+  "description": "Adds a group of agents with skills to orchestrate their efforts on new feature development tasks.",
+  "version": "0.0.1"
+}
