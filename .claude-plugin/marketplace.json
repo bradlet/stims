@@ -1,0 +1,18 @@
+{
+  "name": "stims",
+  "owner": {
+    "name": "Bradley Thompson (bradlet)",
+    "email": "mail@bradlet.com"
+  },
+  "plugins": [
+    {
+      "name": "review-plugin",
+      "source": "./plugins/review-plugin",
+      "description": "Adds a /review command for quick code reviews",
+      "version": "0.0.1",
+      "author": {
+        "name": "Bradley Thompson (bradlet)"
+      }
+    }
+  ]
+}
