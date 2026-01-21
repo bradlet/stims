@@ -9,6 +9,11 @@ Add this marketplace to your Claude Code:
 /plugin marketplace add bradlet/stims
 ```
 
+Then, install any plugin provided by the marketplace:
+```bash
+/plugin install feature-dev-team@stims 
+```
+
 ## Adding More Plugins
 
 To add new plugins to this marketplace:
@@ -51,10 +56,7 @@ Test the marketplace locally before pushing:
 /plugin marketplace add .
 
 # Install a plugin
-/plugin install review-plugin@my-plugins
-
-# Test the plugin
-/review
+/plugin install feature-dev-team@stims 
 ```
 
 ## Documentation
