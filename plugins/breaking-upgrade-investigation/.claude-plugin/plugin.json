@@ -1,0 +1,5 @@
+{
+  "name": "breaking-upgrade-investigation",
+  "description": "Investigates breaking changes between dependency versions and assesses their impact on your codebase. Parallelizes research across major version boundaries and provides risk-scored findings.",
+  "version": "0.0.1"
+}

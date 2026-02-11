@@ -13,6 +13,15 @@
       "author": {
         "name": "Bradley Thompson (bradlet)"
       }
+    },
+    {
+      "name": "breaking-upgrade-investigation",
+      "source": "./plugins/breaking-upgrade-investigation",
+      "description": "Investigates breaking changes between dependency versions and assesses their impact on your codebase. Parallelizes research across major version boundaries and provides risk-scored findings.",
+      "version": "0.0.1",
+      "author": {
+        "name": "Bradley Thompson (bradlet)"
+      }
     }
   ]
 }
