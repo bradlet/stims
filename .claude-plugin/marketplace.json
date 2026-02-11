@@ -9,7 +9,7 @@
       "name": "feature-dev-team",
       "source": "./plugins/feature-dev-team",
       "description": "Adds a group of agents with skills to orchestrate their efforts on new feature development tasks.",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "author": {
         "name": "Bradley Thompson (bradlet)"
       }
