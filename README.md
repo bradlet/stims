@@ -1,3 +1,5 @@
+![stims.png](assets/stims.png)
+
 # stims
 
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin marketplace focused on developer efficiency — AI stimulants for developers.
